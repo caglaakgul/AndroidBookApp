@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "782929173727",
+    "firebase_url": "https://kitapla.firebaseio.com",
+    "project_id": "kitapla",
+    "storage_bucket": "kitapla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782929173727:android:dc6654a96542b93c6cdd6a",
+        "android_client_info": {
+          "package_name": "com.example.kitapla_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782929173727-h1j4emd27fu304hnp70r31a40kgefvqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kitapla_project",
+            "certificate_hash": "730acd8e6329ffcac09cb32d2b9ce74608b86f66"
+          }
+        },
+        {
+          "client_id": "782929173727-goh1goamq95s2p02d0p043iobt0s50oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFaMQLX379h-Uh8vEy3SovBxzeuOJln5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782929173727-goh1goamq95s2p02d0p043iobt0s50oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
